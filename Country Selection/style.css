@@ -1,0 +1,39 @@
+form h1 {
+  border-bottom: solid red 4px;
+  padding: 5px;
+  width: 50%;
+}
+form label {
+  font-weight: bold;
+  font-size: 17px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+form select {
+  border: red solid 2px;
+  border-radius: 10px;
+  background-color: aquamarine;
+  color: black;
+  font-weight: bold;
+  width: 20%;
+  text-align: center;
+}
+form input {
+  border: none;
+  padding: 5px;
+  border-radius: 15px;
+  background-color: dodgerblue;
+  color: whitesmoke;
+  width: 40%;
+  height: auto;
+  font-weight: bold;
+  cursor: pointer;
+}
+form option {
+  background-color: dodgerblue;
+  width: 40%;
+  padding: 5px;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 10px;
+  cursor: pointer;
+}
