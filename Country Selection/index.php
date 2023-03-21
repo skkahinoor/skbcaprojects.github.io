@@ -21,6 +21,7 @@
         <br><br>
         <input type="submit" name="submit" value="Get Country">
     </form>
+    <button type="submit" class="skhome"><a href="https://skbcaproject.000webhostapp.com">Go To Home</a></button>
 
 <?php
 if(isset($_POST['submit'])) {
