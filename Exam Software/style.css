@@ -1,0 +1,73 @@
+* {
+  padding: 0px;
+  background-color: rgb(57, 49, 105);
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+.skhome {
+  border: none;
+  padding: 5px;
+  border-radius: 15px;
+  background-color: dodgerblue;
+  color: whitesmoke;
+  width: 40%;
+  height: auto;
+  font-weight: bold;
+  cursor: pointer;
+}
+.global {
+  padding: 5px;
+}
+.global h1 {
+  text-align: center;
+  padding: 5px;
+  border-bottom: solid lavender 3px;
+  letter-spacing: 3px;
+}
+.einfo p {
+  text-align: right;
+  padding: 0px;
+  font-weight: bold;
+  margin-right: 10px;
+  line-height: 10px;
+}
+.questions h2 {
+  text-align: center;
+  border: solid rgb(209, 209, 209) 2px;
+  width: 50%;
+  margin: auto;
+  background-color: white;
+  box-shadow: whitesmoke -10px 10px 4px 0px;
+  color: black;
+  text-transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  padding: 15px;
+}
+.questions {
+  padding: 15px;
+  margin: 10px;
+}
+.questions p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#sbtn {
+  padding: 5px;
+  width: 100px;
+  height: 50px;
+  cursor: pointer;
+  background-color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  border: none;
+  border-radius: 10px;
+  color: black;
+}
+#sbtn:hover {
+  color: black;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  width: 100px;
+}
