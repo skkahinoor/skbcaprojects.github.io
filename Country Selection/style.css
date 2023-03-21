@@ -17,6 +17,17 @@ form select {
   width: 20%;
   text-align: center;
 }
+.skhome {
+  border: none;
+  padding: 5px;
+  border-radius: 15px;
+  background-color: dodgerblue;
+  color: whitesmoke;
+  width: 40%;
+  height: auto;
+  font-weight: bold;
+  cursor: pointer;
+}
 form input {
   border: none;
   padding: 5px;
