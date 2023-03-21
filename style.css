@@ -6,6 +6,15 @@ html {
   font-weight: bold;
   text-transform: capitalize;
 }
+#herosk-text {
+  font-size: 40px;
+  line-height: 160px;
+}
+#anim-text {
+  color: #fc6d6d;
+
+  border-bottom: 3px #fc6d6d solid;
+}
 .hlogo {
   height: 200px;
   width: 200px;
