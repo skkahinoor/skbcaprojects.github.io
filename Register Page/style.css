@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(lightgreen, white);
+}
+.global {
+  didplay: flex;
+  height: 100%;
+  width: 100%;
+}
+.skhome {
+  border: none;
+  padding: 5px;
+  border-radius: 15px;
+  background-color: dodgerblue;
+  color: whitesmoke;
+  width: 40%;
+  height: auto;
+  font-weight: bold;
+  cursor: pointer;
+}
+.box {
+  border: solid black 2px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(20px);
+}
+form {
+  background-color: transparent;
+}
